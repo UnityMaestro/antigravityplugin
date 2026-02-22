@@ -1,0 +1,13 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Secrets and Local Environment
+.env
+.env.local
+
+# AI/Agent Data that shouldn't be public
+.gemini/
+.agent/snapshots/
+.agent/work_log.md
+.agent/my_plan.md
